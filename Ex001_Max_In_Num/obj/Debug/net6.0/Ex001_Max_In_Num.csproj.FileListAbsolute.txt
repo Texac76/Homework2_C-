@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\bin\Debug\net6.0\Ex001_Max_In_Num.exe
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\bin\Debug\net6.0\Ex001_Max_In_Num.deps.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\bin\Debug\net6.0\Ex001_Max_In_Num.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\bin\Debug\net6.0\Ex001_Max_In_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\bin\Debug\net6.0\Ex001_Max_In_Num.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\refint\Ex001_Max_In_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\Ex001_Max_In_Num.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex001_Max_In_Num\obj\Debug\net6.0\ref\Ex001_Max_In_Num.dll

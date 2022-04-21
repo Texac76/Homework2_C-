@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\bin\Debug\net6.0\Ex007_Day_Of_Week.exe
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\bin\Debug\net6.0\Ex007_Day_Of_Week.deps.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\bin\Debug\net6.0\Ex007_Day_Of_Week.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\bin\Debug\net6.0\Ex007_Day_Of_Week.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\bin\Debug\net6.0\Ex007_Day_Of_Week.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\refint\Ex007_Day_Of_Week.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\Ex007_Day_Of_Week.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex007_Day_Of_Week\obj\Debug\net6.0\ref\Ex007_Day_Of_Week.dll

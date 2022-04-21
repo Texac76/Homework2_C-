@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\bin\Debug\net6.0\Ex005_Square_anothe_Num.exe
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\bin\Debug\net6.0\Ex005_Square_anothe_Num.deps.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\bin\Debug\net6.0\Ex005_Square_anothe_Num.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\bin\Debug\net6.0\Ex005_Square_anothe_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\bin\Debug\net6.0\Ex005_Square_anothe_Num.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\refint\Ex005_Square_anothe_Num.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\Ex005_Square_anothe_Num.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex005_Square_anothe_Num\obj\Debug\net6.0\ref\Ex005_Square_anothe_Num.dll

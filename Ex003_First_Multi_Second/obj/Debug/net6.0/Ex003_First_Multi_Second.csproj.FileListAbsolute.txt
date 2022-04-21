@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\bin\Debug\net6.0\Ex003_First_Multi_Second.exe
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\bin\Debug\net6.0\Ex003_First_Multi_Second.deps.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\bin\Debug\net6.0\Ex003_First_Multi_Second.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\bin\Debug\net6.0\Ex003_First_Multi_Second.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\bin\Debug\net6.0\Ex003_First_Multi_Second.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\refint\Ex003_First_Multi_Second.dll
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.pdb
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\Ex003_First_Multi_Second.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\Homework2_C#\Ex003_First_Multi_Second\obj\Debug\net6.0\ref\Ex003_First_Multi_Second.dll
